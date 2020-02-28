@@ -1,0 +1,22 @@
+{
+  "name": "api-code5-blog",
+  "version": "1.0.0",
+  "description": "api from backend team to code5 blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pace11/api-code5-blog.git"
+  },
+  "author": "pace11",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pace11/api-code5-blog/issues"
+  },
+  "homepage": "https://github.com/pace11/api-code5-blog#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
